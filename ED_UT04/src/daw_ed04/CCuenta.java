@@ -175,4 +175,7 @@ public class CCuenta {
         return result;  
     }
     
+    public int Manuel(int n){
+        return n*n;
+    }
 }
